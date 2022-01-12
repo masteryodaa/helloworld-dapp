@@ -1,5 +1,8 @@
 # Hello World decentralized application
 
+# npm init
+to install the dependencies
+
 # npm start
 to run this dapp.
 
