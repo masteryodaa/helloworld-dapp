@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.HelloWorld{
+  color: #000;
+  text-align: center;
+  margin-top: 10%;
+}
